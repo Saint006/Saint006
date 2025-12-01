@@ -67,7 +67,7 @@ If the future is <b>AI-driven</b>, I’m building it.
 
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,express,scikitlearn,mongodb,postgres,figma,&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,express,java,scikitlearn,mongodb,postgres,figma,postman,&perline=8"/>
 </div>
 
 
