@@ -89,11 +89,18 @@ If the future is <b>AI-driven</b>, I’m building it.
 
 </div>
 <br/>
-<div align='center'>
-<h2 align="left"><b>Past Works</b></h2>
+<<br/>
+<h2 align="center"><b>🚀 Projects 🚀</b></h2>
+<br/>
 
-[!(&theme=dark&hide_border=true)]([https://github.com/amarnathcjd/gogram](https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial)) &nbsp;
+<div align="center">
 
+  <!-- Project Card 1 -->
+  <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Food%20Vision%20Mini%20Trial-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Food Vision Mini Trial" />
+  </a>
+  <br/><br/>
+</div>
 
 
 <br/>
