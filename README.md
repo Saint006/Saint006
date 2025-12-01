@@ -11,10 +11,11 @@
 <div align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=Those%20Eyes%20-%20New%20West&fontSize=42&fontColor=00E5FF&color=0D0D0D&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=Those%20Eyes%20-%20New%20West&fontSize=42&fontColor=00E5FF&color=1A1A1A&animation=twinkling" 
     alt="Those Eyes - New West"
   />
 </div>
+
 
 
 
