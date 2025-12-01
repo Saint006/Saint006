@@ -6,6 +6,9 @@
 
 [![Those Eyes - New West](./those_eyes.jpeg)](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG)
 
+<br/>
+
+[![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
 </div>
 
 
