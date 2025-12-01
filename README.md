@@ -4,12 +4,11 @@
 
 
 <div align="center">
-<div align="center">
   <a href="https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8" target="_blank">
     <img 
-      src="https://spotify-readme-3s6y.vercel.app/api/now-playing?open=true&uid=jszbnqf3rfvkem9o77lpdbdt8&theme=dark&background_color=000000&interchange=true&show_offline=true" 
-      width="400"
-      alt="Spotify Now Playing"
+      src="https://spotify-github-profile.vercel.app/api/top-tracks?uid=jszbnqf3rfvkem9o77lpdbdt8&theme=default&hide_border=true&background_color=0d1117" 
+      width="500"
+      alt="Top Tracks"
     />
   </a>
 </div>
