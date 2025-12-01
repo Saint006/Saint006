@@ -3,15 +3,11 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint'></h1>
 
 <div align="center">
-  <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG" target="_blank">
-    <img 
-      src="https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd" 
-      alt="Those Eyes - New West"
-      width="300"
-      style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
-    />
-  </a>
+
+[![Those Eyes - New West](https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd)](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG)
+
 </div>
+
 
 
 <picture>
