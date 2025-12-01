@@ -21,7 +21,7 @@
 <h2 align="center"><b>⚒️ Core Tech Stack ⚒️</b></h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,django,express,opencv,pytorch,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,,opencv,pytorch" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
 <h2 align="center"><b>🔧 Tools & Libraries I Work With 🔧</b></h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,expressscikitlearn,mongodb,postgres" />
 </div>
 
 
