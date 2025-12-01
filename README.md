@@ -77,20 +77,15 @@ If the future is <b>AI-driven</b>, I’m building it.
 <div align="center">
 
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-p5559/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-p5559/" height="30"             width="40" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/" height="30" width="40" />
   </a>
 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/https://leetcode.com/u/saint1306/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saint1306/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saint1306/" height="30" width="40" />
   </a>
 
-
-  <!-- Hugging Face -->
-  <a href="https://huggingface.co/YOUR-HUGGINGFACE-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Profile"/>
-  </a>
 
 </div>
 
