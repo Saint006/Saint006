@@ -70,14 +70,36 @@ If the future is <b>AI-driven</b>, I’m building it.
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,express,java,scikitlearn,mongodb,postgres,figma,postman,&perline=8"/>
 </div>
 
+<br/>
+<h2 align="center"><b>🌐 My Professional Networks 🌐</b></h2>
+<br/>
+
+<div align="center">
+
+  
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/saint1306/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/YOUR-HUGGINGFACE-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Profile"/>
+  </a>
+
+</div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
 </picture>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/saint1306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saint1306/" height="30" width="40" /></a>
-</p>
+
 
 
