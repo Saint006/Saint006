@@ -74,6 +74,12 @@ If the future is <b>AI-driven</b>, I’m building it.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
 </picture>
-
+<p align="center">
+  <a href="https://readme.Saint006.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/Saint006/Saint006/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
 
 
