@@ -76,5 +76,8 @@ If the future is <b>AI-driven</b>, I’m building it.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
 </picture>
+<p align="left">
+<a href="https://www.leetcode.com/https://leetcode.com/u/saint1306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saint1306/" height="30" width="40" /></a>
+</p>
 
 
