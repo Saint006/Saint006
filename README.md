@@ -3,8 +3,10 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint;Building+Cool+Stuff.;Learning+Forever'></h1>
 
 <div align="center">
-
-[![Those Eyes - New West](./those_eyes.jpeg)](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG)
+  <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG">
+    <img src="./those_eyes.jpeg" width="300px" />
+  </a>
+</div>
 
 <br/>
 
@@ -74,12 +76,5 @@ If the future is <b>AI-driven</b>, I’m building it.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
 </picture>
-<p align="center">
-  <a href="https://readme.Saint006.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/Saint006/Saint006/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
-  </a>
-</p>
 
 
