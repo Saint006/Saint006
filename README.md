@@ -98,7 +98,7 @@ If the future is <b>AI-driven</b>, I’m building it.
 
   <!-- Project 1 -->
   <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank">
-    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=Saint006&repo=Food_vision_mini_trial&theme=dark&hide_border=true" alt="Food Vision Mini Trial" />
+    <img src="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial&theme=dark&hide_border=true" alt="Food Vision Mini Trial" />
   </a> &nbsp;
 
 
