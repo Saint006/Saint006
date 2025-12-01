@@ -11,10 +11,11 @@
 <div align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Those%20Eyes%20-%20New%20West&fontSize=60&fontColor=00E5FF&color=0D0D0D&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=Those%20Eyes%20-%20New%20West&fontSize=42&fontColor=00E5FF&color=0D0D0D&animation=twinkling" 
     alt="Those Eyes - New West"
   />
 </div>
+
 
 
 [![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
