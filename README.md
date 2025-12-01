@@ -93,33 +93,19 @@ If the future is <b>AI-driven</b>, I’m building it.
 <h2 align="center"><b>🚀 Projects</b></h2>
 <br/>
 
-<style>
-.project-card {
-  display: inline-block;
-  padding: 14px 22px;
-  margin: 10px;
-  border: 1px solid #444;
-  border-radius: 12px;
-  background: rgba(255, 255, 255, 0.03);
-  transition: 0.25s ease-in-out;
-  text-decoration: none;
-  color: #E8E8E8;
-  font-size: 16px;
-  font-weight: 600;
-}
-.project-card:hover {
-  transform: translateY(-4px);
-  border-color: #00E5FF;
-  color: #00E5FF;
-}
-</style>
-
 <div align="center">
 
   <!-- Project 1 -->
-  <a class="project-card" href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank">
+  <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank"
+     style="display:inline-block; padding:14px 22px; margin:10px;
+            border:1px solid #444; border-radius:12px;
+            background:rgba(255,255,255,0.03);
+            text-decoration:none; color:#E8E8E8;
+            font-size:16px; font-weight:600;
+            transition:all .25s ease;">
     Food Vision Mini Trial
   </a>
+
 </div>
 
 
