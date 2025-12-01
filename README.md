@@ -89,8 +89,7 @@ If the future is <b>AI-driven</b>, I’m building it.
 
 </div>
 <br/>
-<br/>
-<br/>
+
 <h2 align="center"><b>🚀 Projects</b></h2>
 <br/>
 
