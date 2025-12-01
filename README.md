@@ -9,7 +9,7 @@
   <!-- Spotify Now Playing -->
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
     <img 
-      src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+      src="https://spotify-github-profile.vercel.app/api/view?uid=jszbnqf3rfvkem9o77lpdbdt8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
       alt="Spotify"
     />
   </a>
