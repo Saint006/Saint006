@@ -5,9 +5,14 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" />
+    <img 
+      src="https://github-readme-lastfm-powered.vercel.app/api?user=jszbnqf3rfvkem9o77lpdbdt8&theme=dark" 
+      width="500"
+      alt="Recently played on Spotify"
+    />
   </a>
 </div>
+
 
 
 
