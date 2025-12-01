@@ -5,10 +5,13 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing%3A%20Those%20Eyes-1DB954?logo=spotify&logoColor=white&style=flat-square" />
+    <img 
+      src="https://spotify-github-profile.vercel.app/api/now-playing?open=true&theme=dark&song=Those%20Eyes&artist=New%20West&cover_image=https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd"
+      width="400"
+      alt="Those Eyes — New West"
+    />
   </a>
 </div>
-
 
 
 
