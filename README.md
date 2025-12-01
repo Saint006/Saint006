@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG">
-    <img src="./those_eyes.jpeg" width="300px" />
+    <img src="./those_eyes.jpeg" width="100px" />
   </a>
 </div>
 
