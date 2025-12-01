@@ -18,15 +18,13 @@
 [![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
 </div>
 
-<h2 align="center"><b>⚒️ Core Tech Stack ⚒️</b></h2>
+<h2 align="center"><b>⚒️ Core Tech Stack and Language-Frameworks I've used⚒️</b></h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
 </div>
 
-<br/>
 
-<h2 align="center"><b>🔧 Tools & Libraries I Work With 🔧</b></h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,expressscikitlearn,mongodb,postgres" />
