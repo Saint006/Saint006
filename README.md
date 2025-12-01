@@ -21,7 +21,7 @@
 <h2 align="center"><b>⚒️ Core Tech Stack ⚒️</b></h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,,opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
 </div>
 
 <br/>
