@@ -89,6 +89,11 @@ If the future is <b>AI-driven</b>, I’m building it.
 
 </div>
 <br/>
+<div align='center'>
+<h2 align="left"><b>Past Works</b></h2>
+
+[!(&theme=dark&hide_border=true)]([https://github.com/amarnathcjd/gogram](https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial)) &nbsp;
+
 
 
 <br/>
