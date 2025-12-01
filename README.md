@@ -17,19 +17,44 @@
 
 [![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
 </div>
-**About Me****
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=About+Me" alt="About Me" />
+</div>
 
-I’m Saint — a developer building my future around **Artificial Intelligence** and **Machine Learning**. I thrive at the intersection of **software engineering** and **computer vision**, turning data into real-world impact.
+<div align="center">
 
-My focus areas right now:
-- **Neural Networks** — designing, training, and optimizing deep models  
-- **Large Language Models (LLMs)** — pushing capabilities and fine-tuning behavior  
-- **Computer Vision** — extracting intelligence from imagery and video  
-- **MLOps mindset** — data → experimentation → deployment → iteration  
+<p align="center" width="80%" style="font-size: 18px">
+I’m <b>Saint</b> — a developer obsessed with crafting intelligent systems through
+<b>Artificial Intelligence</b> and <b>Machine Learning</b>.
+<br/><br/>
+I love engineering capability — models that <b>see</b>, <b>understand</b>, and <b>adapt</b> to the world.
+</p>
 
-I’m committed to the craft — always learning, always shipping.  
-If the future is AI-driven, I’m here to help build it.
+<br/>
+
+<table>
+<tr><td>
+
+<ul align="left">
+<li><b>Neural Networks</b> — designing, training & optimizing deep systems</li>
+<li><b>Large Language Models</b> — fine-tuning and capability expansion</li>
+<li><b>Computer Vision</b> — making machines perceive reality</li>
+<li><b>MLOps mindset</b> — data → deployment → iteration</li>
+</ul>
+
+</td></tr>
+</table>
+
+<p align="center" width="80%" style="font-size: 18px">
+Always learning. Always shipping.  
+If the future is <b>AI-driven</b>, I’m building it.
+</p>
+
+</div>
+
+<br/>
 
 <h2 align="center"><b>⚒️ Core Tech Stack and Language-Frameworks I've used⚒️</b></h2>
 <br/>
