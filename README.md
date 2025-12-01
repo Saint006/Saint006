@@ -74,20 +74,25 @@ If the future is <b>AI-driven</b>, I’m building it.
 <h2 align="center"><b>🌐 My Professional Networks 🌐</b></h2>
 <br/>
 
-<div align="center">
+<br/>
+<h2 align="center"><b>🌐 My Professional Networks 🌐</b></h2>
+<br/>
 
-  
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/" height="30" width="40" />
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn"/>
   </a>
 
   <!-- LeetCode -->
-  <a href="https://www.leetcode.com/https://leetcode.com/u/saint1306/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saint1306/" height="30" width="40" />
+  <a href="https://leetcode.com/saint1306/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode"/>
   </a>
 
-
 </div>
+<br/>
+
 
 <br/>
 
