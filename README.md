@@ -2,16 +2,17 @@
 
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint'></h1>
 
-
 <div align="center">
   <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG" target="_blank">
     <img 
-      src="https://spotify-github-profile.vercel.app/api/now-playing?open=true&theme=dark&song=Those%20Eyes&artist=New%20West&cover_image=https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd"
-      width="400"
-      alt="Those Eyes — New West"
+      src="https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd" 
+      alt="Those Eyes Album Art"
+      width="250"
+      style="border-radius:12px;"
     />
   </a>
 </div>
+
 
 
 
