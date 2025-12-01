@@ -17,8 +17,8 @@
 
 [![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
 </div>
-**About Me**
-</hr>
+**About Me****
+
 
 I’m Saint — a developer building my future around **Artificial Intelligence** and **Machine Learning**. I thrive at the intersection of **software engineering** and **computer vision**, turning data into real-world impact.
 
