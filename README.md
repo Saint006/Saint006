@@ -72,7 +72,7 @@ If the future is <b>AI-driven</b>, I’m building it.
 
 
 <br/>
-<h2 align="center"><b>Find Me on </b></h2>
+<h2 align="center"><b>Catch Me in the Wild 🧑‍💻</b></h2>
 <br/>
 
 <div align="center" style="display: flex; gap: 80px; justify-content: center;">
