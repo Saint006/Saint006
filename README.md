@@ -94,15 +94,14 @@ If the future is <b>AI-driven</b>, I’m building it.
 <h2 align="center"><b>🚀 Projects</b></h2>
 <br/>
 
-<div align="center">
-
-  <!-- Project 1 -->
-  <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank">
-    <img src="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial&theme=dark&hide_border=true" alt="Food Vision Mini Trial" />
-  </a> &nbsp;
-
-
+<div align="center" style="margin: 12px;">
+  <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank" 
+     style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Food%20Vision%20Mini%20Trial-darkgrey?style=for-the-badge&logo=huggingface&logoColor=yellow"
+         style="border-radius:12px;" />
+  </a>
 </div>
+
 
 
 <br/>
