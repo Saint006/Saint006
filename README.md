@@ -27,7 +27,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,expressscikitlearn,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,express,scikitlearn,mongodb,postgres" />
 </div>
 
 
