@@ -17,6 +17,18 @@
 
 [![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
 </div>
+## 🚀 About Me
+
+I’m Saint — a developer building my future around **Artificial Intelligence** and **Machine Learning**. I thrive at the intersection of **software engineering** and **computer vision**, turning data into real-world impact.
+
+My focus areas right now:
+- **Neural Networks** — designing, training, and optimizing deep models  
+- **Large Language Models (LLMs)** — pushing capabilities and fine-tuning behavior  
+- **Computer Vision** — extracting intelligence from imagery and video  
+- **MLOps mindset** — data → experimentation → deployment → iteration  
+
+I’m committed to the craft — always learning, always shipping.  
+If the future is AI-driven, I’m here to help build it.
 
 <h2 align="center"><b>⚒️ Core Tech Stack and Language-Frameworks I've used⚒️</b></h2>
 <br/>
