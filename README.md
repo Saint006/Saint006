@@ -70,15 +70,12 @@ If the future is <b>AI-driven</b>, I’m building it.
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,django,express,java,scikitlearn,mongodb,postgres,figma,postman,&perline=8"/>
 </div>
 
-<br/>
-<h2 align="center"><b>🌐 My Professional Networks 🌐</b></h2>
-<br/>
 
 <br/>
-<h2 align="center"><b>🌐 My Professional Networks 🌐</b></h2>
+<h2 align="center"><b>Find Me on </b></h2>
 <br/>
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; gap: 80px; justify-content: center;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
