@@ -4,10 +4,16 @@
 
 
 <div align="center">
-  <br/>
-  <img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?s=1&svg=true&v=2">
+  <!-- Spotify Now Playing -->
+  <a href="https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8" target="_blank">
+    <img 
+      src="https://spotify-github-profile.vercel.app/api/view?uid=jszbnqf3rfvkem9o77lpdbdt8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
+      alt="Spotify Now Playing"
+    />
+  </a>
 </div>
 <br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saint006/Saint006/output/pacman-contribution-graph.svg">
