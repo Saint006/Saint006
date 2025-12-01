@@ -6,14 +6,12 @@
   <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG" target="_blank">
     <img 
       src="https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd" 
-      alt="Those Eyes Album Art"
-      width="250"
-      style="border-radius:12px;"
+      alt="Those Eyes - New West"
+      width="300"
+      style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
     />
   </a>
 </div>
-
-
 
 
 <picture>
