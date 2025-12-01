@@ -4,9 +4,10 @@
 
 <div align="center">
 
-[![Those Eyes - New West](https://i.scdn.co/image/ab67616d0000b273c98f6633f92e68e45e94a5bd)](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG)
+[![Those Eyes - New West](./those-eyes.jpeg)](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG)
 
 </div>
+
 
 
 
