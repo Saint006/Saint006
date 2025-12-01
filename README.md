@@ -18,6 +18,19 @@
 [![Now Playing on Spotify](https://img.shields.io/badge/Now%20Playing-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8)
 </div>
 
+<h2 align="center"><b>⚒️ Core Tech Stack ⚒️</b></h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,django,express,opencv,pytorch,mongodb,postgres" />
+</div>
+
+<br/>
+
+<h2 align="center"><b>🔧 Tools & Libraries I Work With 🔧</b></h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn" />
+</div>
 
 
 <picture>
