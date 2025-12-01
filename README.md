@@ -90,21 +90,17 @@ If the future is <b>AI-driven</b>, I’m building it.
 </div>
 <br/>
 <br/>
+<br/>
 <h2 align="center"><b>🚀 Projects</b></h2>
 <br/>
 
 <div align="center">
 
   <!-- Project 1 -->
-  <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank"
-     style="display:inline-block; padding:14px 22px; margin:10px;
-            border:1px solid #444; border-radius:12px;
-            background:rgba(255,255,255,0.03);
-            text-decoration:none; color:#E8E8E8;
-            font-size:16px; font-weight:600;
-            transition:all .25s ease;">
-    Food Vision Mini Trial
-  </a>
+  <a href="https://huggingface.co/spaces/Saint-Unni/Food_vision_mini_trial" target="_blank">
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=Saint006&repo=Food_vision_mini_trial&theme=dark&hide_border=true" alt="Food Vision Mini Trial" />
+  </a> &nbsp;
+
 
 </div>
 
