@@ -5,13 +5,10 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/jszbnqf3rfvkem9o77lpdbdt8" target="_blank">
-    <img 
-      src="https://spotify-github-profile.vercel.app/api/top-tracks?uid=jszbnqf3rfvkem9o77lpdbdt8&theme=default&hide_border=true&background_color=0d1117" 
-      width="500"
-      alt="Top Tracks"
-    />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" />
   </a>
 </div>
+
 
 
 <picture>
