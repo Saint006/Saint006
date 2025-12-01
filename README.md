@@ -8,12 +8,8 @@
 
 <br/>
 
-<div align="center">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=Those%20Eyes%20-%20New%20West&fontSize=42&fontColor=00E5FF&color=1A1A1A&animation=twinkling" 
-    alt="Those Eyes - New West"
-  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=92&section=header&reversal=false&text=Those%20Eyes%20-%20New%20West&fontSize=33&fontAlign=50&fontAlignY=37&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 
