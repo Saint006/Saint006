@@ -1,20 +1,6 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=65&center=true&vCenter=true&width=1500&height=150&color=00A8E8&lines=Hey+There,+I'm+Saint!;Building+Cool+Stuff.;Shipping+Relentlessly." 
-    alt="Typing animation"
-  />
-</h1>
+<div align="r">
 
-<div align="center">
-  <!-- Spotify Now Playing -->
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
-    <img 
-      src="https://spotify-github-profile.vercel.app/api/view?uid=jszbnqf3rfvkem9o77lpdbdt8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-      alt="Spotify"
-    />
-  </a>
-</div>
-<br/>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint'></h1>
 
 
 
