@@ -3,9 +3,10 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint;Building+Cool+Stuff.;Learning+Forever'></h1>
 <br/>
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=github-dark&bg_color=000000&color=ff1e1e&line=b90000&point=ffffff&area=true&area_color=4d0000&hide_border=true&custom_title=Unleashing%20the%20Dark%20Side%20of%20Commits%20%E2%9A%A1&radius=10"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=high-contrast&bg_color=0a0a0a&color=ff0000&line=ff2e63&point=00eaff&area=true&area_color=260000&hide_border=true&custom_title=Activity%20Graph%20Initiated%20%E2%98%A2&radius=12"
 />
 <br/>
+
 
 
 
