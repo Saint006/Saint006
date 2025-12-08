@@ -1,6 +1,9 @@
 <div align="r">
 
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint;Building+Cool+Stuff.;Learning+Forever'></h1>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=github-compact&height=400&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=My%20This%20Month%27s%20Activity%20Graph%20%F0%9F%98%89&radius=4" alt="GitHub Activity Graph">
+  <br/>
 
 <div align="center">
   <a href="https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG">
