@@ -2,11 +2,11 @@
 
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint;Building+Cool+Stuff.;Learning+Forever'></h1>
 <br/>
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=react-dark&bg_color=1a1a1a&color=00d9ff&line=0077b6&point=90e0ef&area=true&area_color=023e8a&hide_border=true&custom_title=Operational%20Commit%20Metrics%20%E2%9A%99%EF%B8%8F&radius=6" 
-  alt="Contribution Graph - Stealth"
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=github-dark&bg_color=000000&color=ff1e1e&line=b90000&point=ffffff&area=true&area_color=4d0000&hide_border=true&custom_title=Unleashing%20the%20Dark%20Side%20of%20Commits%20%E2%9A%A1&radius=10"
 />
 <br/>
+
 
 
 
