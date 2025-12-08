@@ -3,10 +3,11 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hello+There!+%F0%9F%91%8B+I%27m+Saint;Building+Cool+Stuff.;Learning+Forever'></h1>
 <br/>
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=github-compact&height=400&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=This%20Month%27s%20Contribution%20Graph%20%E2%9A%A1&radius=4" 
-  alt="This Month's GitHub Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Saint006&theme=high-contrast&bg_color=0d1117&color=ff4545&line=ff0000&point=ffffff&area=true&area_color=8b0000&hide_border=true&custom_title=The%20Dark%20Side%20of%20My%20Commits%20%F0%9F%94%A5&radius=8" 
+  alt="Contribution Graph - Dark Side"
 />
 <br/>
+
 
 
 <div align="center">
