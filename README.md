@@ -73,7 +73,7 @@ If the future is <b>AI-driven</b>, I’m building it.
 <h2 align="center"><b>⚒️ Core Tech Stack and Language-Frameworks I've used⚒️</b></h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi" />
 </div>
 
 
